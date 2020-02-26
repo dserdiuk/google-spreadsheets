@@ -8,6 +8,11 @@
             "email": "dserdiuk98@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {
+            "SpreadSheets": "src/"
+        }
+    },
+    "minimum-stability": "dev",
     "require": {}
 }
