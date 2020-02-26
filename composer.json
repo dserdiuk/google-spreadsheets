@@ -2,6 +2,7 @@
     "name": "dserdiuk/google-spreadsheets",
     "description": "Google Spreadsheets api",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "DSerdiuk",
@@ -10,9 +11,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "SpreadSheets": "src/"
+            "psr-4": {"dserdiuk\\SpreadSheets\\": "src/"}
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
