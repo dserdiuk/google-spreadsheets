@@ -1,5 +1,5 @@
 <?php
-
+namespace dserdiuk\SpreadSheets;
 
 class Init
 {

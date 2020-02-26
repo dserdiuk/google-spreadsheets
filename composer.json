@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "psr-4": {"dserdiuk\\SpreadSheets\\": "src/"}
+            "dserdiuk\\SpreadSheets\\": "src/"
         }
     },
     "minimum-stability": "stable",
