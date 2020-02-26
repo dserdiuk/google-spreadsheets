@@ -1,0 +1,13 @@
+{
+    "name": "dserdiuk/google-spreadsheets",
+    "description": "Google Spreadsheets api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "DSerdiuk",
+            "email": "dserdiuk98@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
