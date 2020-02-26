@@ -7,9 +7,4 @@ class Init
     {
         echo __CLASS__;
     }
-
-    public function name()
-    {
-        return "test";
-    }
 }
